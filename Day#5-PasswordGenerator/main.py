@@ -20,7 +20,7 @@ hm_letters = int(input("How many letters would you like in your password?\n"))
 hm_numbers = int(input("How many numbers would you like in your password?\n"))
 hm_symbols = int(input("How many symbols would you like in your password?\n"))
 
-password = " "
+password = []
 
 for i in range(0, hm_letters):
     password += random.choice(letters)
@@ -29,7 +29,13 @@ for i in range(0, hm_numbers):
 for i in range(0, hm_symbols):
     password += random.choice(symbols)
 
-print(password)
+#hard level password : order of characters randomised
+random_password = ""
+total_len = hm_letters + hm_numbers + hm_symbols
+for i in range(0, total_len):
+    random_password += random.choice(password)
+print(random_password)
+
 
 
 
