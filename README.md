@@ -13,7 +13,7 @@ It's a challenge that aims to gain code practice and enhance programming knowled
 ## Day #6 The Hangman Game
 **In this project I created 3 files: hangman_stages (for stages of hangman ), main, wordlist (for alphabet). I could use all of them in one file but separated them into 3 because it's more readable. I used if conditions to control lives and printed the stages that represent the lives . Lastly, I checked if there is a ‘_’ symbol . If there is, that means the user couldn’t finish the game ,but if there is not, that means the user predicted all letters in the word before the man hung :)))**
 ## Day #7 CaesarCipher
-![caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher#/media/File:Caesar_cipher_left_shift_of_3.svg)
+
 
 In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence. For more information about Caesar cipher: [https://en.wikipedia.org/wiki/Caesar_cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
