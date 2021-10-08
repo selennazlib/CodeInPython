@@ -28,4 +28,5 @@ Ps: I added the alphabet into the alphabet list twice because of the “out of r
 **This program aims to find the highest value in the dictionary called ‘d’ :). In the dictionary you’re matching names with bid amounts. For example {“selen”: 789, “nazlı”: 564} , then you have to find who has the highest bid . I casted dictionary to the list to use the “max” function :) Then with the max value’s index I got the winner's name.**
 ## Day #9 Calculator
 **I defined a functions to each transaction and match them with the operator symbols (‘+’ ,‘-’,’ /’ ,‘*’ ). I got two inputs from the user and asked for the transaction that the user wanted(I did that in a while loop so the user didn't need to end the program to calculate a new transaction) . In the end all of these I printed the result :  print(f"{result} {operation_symbol} {next_num} = {next_result}") Example result = 12 + 5 =17 
-**Also , you can use the previous answer: 12 + 5 = 17 (choose to continue)17 - 7 = 10 …**** 
+**Also , you can use the previous answer: 12 + 5 = 17 (choose to continue)17 - 7 = 10 …**
+ 
