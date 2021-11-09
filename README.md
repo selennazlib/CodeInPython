@@ -62,6 +62,11 @@ Debugging Tips:
 - Take a break  
 - Ask a friend  
 - Run often  
- - Ask StackOverflow  
+ - Ask StackOverflow 
+ 
 EVERYONE GETS BUGS  🐞 :) 
+## Day #13 Coffee Machine
+This project is the first one which I use OOP. There are many different techniques related to OOP.
+
+Simply I tried to create a coffee machine which controls the remaining ingredients, total payment, are all of the ingredients enough to make coffee , change of money.
  
