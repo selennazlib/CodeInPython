@@ -29,4 +29,39 @@ Ps: I added the alphabet into the alphabet list twice because of the “out of r
 ## Day #9 Calculator
 **I defined a functions to each transaction and match them with the operator symbols (‘+’ ,‘-’,’ /’ ,‘*’ ). I got two inputs from the user and asked for the transaction that the user wanted(I did that in a while loop so the user didn't need to end the program to calculate a new transaction) . In the end all of these I printed the result :  print(f"{result} {operation_symbol} {next_num} = {next_result}") Example result = 12 + 5 =17 
 Also , you can use the previous answer: 12 + 5 = 17 (choose to continue)17 - 7 = 10 …**
+## Day #10 The BlackJack Project
+
+**Blackjack** is a "Casino game" . Also known as "Twenty-One (card game)". 
+Rules of the blackjack (for more information about this card game [click here.](http://www.hitorstand.net/strategy.php)):
+
+ -  The goal of blackjack is to beat the dealer's hand without going over 21.
+-   Face cards are worth 10. Aces are worth 1 or 11, whichever makes a better hand.
+-   Each player starts with two cards, one of the dealer's cards is hidden until the end.
+-   To 'Hit' is to ask for another card. To 'Stand' is to hold your total and end your turn.
+-   If you go over 21 you bust, and the dealer wins regardless of the dealer's hand.
+-   If you are dealt 21 from the start (Ace & 10), you got a blackjack.
+-   Blackjack usually means you win 1.5 the amount of your bet. Depends on the casino.
+-   Dealer will hit until his/her cards total 17 or higher.
+
+## Day #11 The Number Guessing Game
+In this project there are two levels: **hard and easy**. Actually these levels are about numbers of guessing. In the hard level you have 5 chances to guess but easy level provides you 10 chances to guess.
+
+Logic of the game is: Computer chooses a random number from 0 to 100. Then the user makes her/his first guess if it is higher than the chosen number, the computer prints "Too high” ,vice versa.
+
+Meantime computer also prints the remaining lives. When the user guesses the correct to chosen number before finishing her/his lives, the user wins .
+
+## Day #12 Debugging Exercises
+
+Debugging Tips:
+- Describe the problem  
+- Reproduce the bug  
+- Play computer  
+- Fix the errors  
+- "Print" is your friend  
+- Use a debugger  
+- Take a break  
+- Ask a friend  
+- Run often  
+ - Ask StackOverflow  
+EVERYONE GETS BUGS  🐞 :) 
  
