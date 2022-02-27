@@ -1,4 +1,4 @@
-# 100 Days of Code 
+# Python Projects
 It's a challenge that aims to gain code practice and enhance programming knowledge. 
 ## Day #1 Create a Band Name Generator
 **It's actually a pretty basic exercise to understand string manipulation and input function. You have two inputs which contain city and pet name , and  to create a band name , you have to put two of them together.**
